@@ -23,7 +23,7 @@
 📫 **Connect with Me**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankitrawat448/)
-- 📧 Email: [ankitrawat448@gmail.com](mailto:ankitrawat219260@gmail.com)
+- 📧 Email: [ankitrawat219260@gmail.com](mailto:ankitrawat219260@gmail.com)
 
 ---
 
