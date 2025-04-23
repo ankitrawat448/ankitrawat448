@@ -20,26 +20,10 @@
 
 ---
 
-🛠️ **Tech Stack**
-
-- **Languages:** Python, C++, JavaScript
-- **Frameworks & Tools:** React, Next.js, Flutter, Android Studio, Unity
-- **Operating Systems:** Linux, Windows
-
----
-
-📂 **Featured Projects**
-
-- [**Office Management Tool**](https://github.com/ankitrawat448/Office_management): A simple office employee management application built with Python.
-- [**Stock Analysis Agent**](https://github.com/ankitrawat448/stock_analysis_agent): A tool for analyzing stock data using Python.
-- [**Build Your Own X**](https://github.com/ankitrawat448/build-your-own-x): A forked collection of tutorials for building various technologies from scratch.
-
----
-
 📫 **Connect with Me**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankitrawat448/)
-- 📧 Email: [ankitrawat448@gmail.com](mailto:ankitrawat448@gmail.com)
+- 📧 Email: [ankitrawat448@gmail.com](mailto:ankitrawat219260@gmail.com)
 
 ---
 
