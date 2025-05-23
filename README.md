@@ -13,8 +13,8 @@
 
 🎓 **About Me**
 
-- 🎓 I'm currently pursuing my studies at **Queen Mary University of London**.
-- 💼 Previously interned at **Torry Harris Integration Solutions**.
+- 🎓 Completed Master of Computer Science at **Queen Mary University of London**.
+- 💼 Former Associate Software Engineer at **Torry Harris Integration Solutions**.
 - 🌍 Based in **London, United Kingdom**.
 - 🤝 Open to collaborating on innovative and impactful projects.
 
